@@ -15,7 +15,7 @@
 
 ## What I'm learning
 
-Robotics, automation, space technology and software engineering.
+Robotics, automation,Machine Learning, space technology and software engineering.
 
 ## Contact
 
