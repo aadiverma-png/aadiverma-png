@@ -12,7 +12,6 @@
 
 I am a software engineer focused on robotics and autonomous systems. I work on software for machines that operate in the real world, from warehouse robot fleets to orbital imaging pipelines. I write in Python, build on ROS 2, and develop on Linux.
 
-My repositories are pinned above.
 
 <br>
 
