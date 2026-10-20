@@ -10,9 +10,9 @@
 
 ## 🛰️ Mission Briefing
 
-B.Tech AI/ML student building systems where robots **see, decide and cooperate**, from warehouse fleets to orbital imaging pipelines.
+Building systems where robots **see, decide and cooperate**, from warehouse fleets to orbital imaging pipelines.
 
-## 🚀 Active Missions
+## 🚀 Active Projects
 
 | Project | What it does | Link |
 |---|---|---|
@@ -32,7 +32,7 @@ B.Tech AI/ML student building systems where robots **see, decide and cooperate**
 
 ## 🔭 Currently Exploring
 
-Robotics, automation, space technology and software engineering.
+Robotics, automation, Machine learning ,space technology and software engineering.
 
 ## 📡 Contact
 
