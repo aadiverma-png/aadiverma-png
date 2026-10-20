@@ -41,7 +41,12 @@ My repositories are pinned above.
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B0F2A?style=flat-square&logo=linkedin&logoColor=22D3EE)](https://www.linkedin.com/in/aadi-verma-8b48b4431/)
-[![Email](https://img.shields.io/badge/Email-0B0F2A?style=flat-square&logo=gmail&logoColor=22D3EE)](mailto:vaadi9902@gmail.com)
+<div align="center">
+
+<a href="https://www.linkedin.com/in/aadi-verma-8b48b4431/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-1B1450?style=for-the-badge&logo=linkedin&logoColor=22D3EE&labelColor=0B0F2A" alt="LinkedIn" /></a>
+&nbsp;&nbsp;
+<a href="mailto:vaadi9902@gmail.com"><img src="https://img.shields.io/badge/EMAIL-GET%20IN%20TOUCH-1B1450?style=for-the-badge&logo=gmail&logoColor=22D3EE&labelColor=0B0F2A" alt="Email" /></a>
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1B1450,100:070B1F&height=60&section=footer" alt="" width="100%" />
