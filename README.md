@@ -1,62 +1,47 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F2A,50:2A1A6B,100:6D28D9&height=200&section=header&text=Aadi%20Verma&fontColor=FFFFFF&fontSize=60&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Robotics%20%E2%80%A2%20Automation%20%E2%80%A2%20Space%20Tech&descSize=18&descAlignY=60" alt="Aadi Verma banner" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:070B1F,100:1B1450&height=140&section=header&text=AADI%20VERMA&fontColor=22D3EE&fontSize=46&fontAlignY=50&desc=Software%20Engineer%20%7C%20Robotics%20%7C%20Automation%20%7C%20Space%20Technology&descColor=C4B5FD&descSize=15&descAlignY=76" alt="Aadi Verma" />
 
-### 🛰️ Building autonomous robots
-
-</div>
-
----
-
-## 🌌 Mission Briefing
-
-I'm a software engineer building systems where robots **see, decide and cooperate**, from warehouse fleets to orbital imaging pipelines.
-
-I care about code that actually runs on real machines, so I focus on robotics, automation and space technology.
-
-> 👨‍🚀 Explore my **pinned repositories** above to see my work.
-
----
-
-## 🚀 Flight Toolkit
-
-<div align="center">
-
-| Category | Tools |
-|---|---|
-| **Language** | ![Python](https://img.shields.io/badge/Python-0B0F2A?style=for-the-badge&logo=python&logoColor=A78BFA) |
-| **Robotics** | ![ROS 2](https://img.shields.io/badge/ROS_2-0B0F2A?style=for-the-badge&logo=ros&logoColor=A78BFA) |
-| **Environment** | ![Linux](https://img.shields.io/badge/Linux-0B0F2A?style=for-the-badge&logo=linux&logoColor=A78BFA) ![VS Code](https://img.shields.io/badge/VS_Code-0B0F2A?style=for-the-badge&logoColor=A78BFA) |
-| **Version Control** | ![Git](https://img.shields.io/badge/Git-0B0F2A?style=for-the-badge&logo=git&logoColor=A78BFA) ![GitHub](https://img.shields.io/badge/GitHub-0B0F2A?style=for-the-badge&logo=github&logoColor=A78BFA) |
+**Building software that lets machines perceive, decide and cooperate.**
 
 </div>
 
----
+<br>
 
-## 🪐 Focus Areas
+## About
 
-- 🤖 **Robotics and autonomous systems:** software that lets machines perceive and act
-- ⚙️ **Automation:** turning repeated work into reliable programs
-- 🛰️ **Space technology:** data and intelligence from orbit
-- 💻 **Software engineering:** clean, tested, maintainable code
+I am a software engineer focused on robotics and autonomous systems. I work on software for machines that operate in the real world, from warehouse robot fleets to orbital imaging pipelines. I write in Python, build on ROS 2, and develop on Linux.
 
----
+My repositories are pinned above.
 
-## 🔭 Next Missions (Currently Learning)
+<br>
 
-- 👁️ Computer vision with **OpenCV**
-- 🧠 **Machine learning** fundamentals
-- 🚀 Space-tech software and data pipelines
+## Technical Profile
 
----
+| Layer | Technologies |
+|:--|:--|
+| **Language** | ![Python](https://img.shields.io/badge/Python-0B0F2A?style=flat-square&logo=python&logoColor=22D3EE) |
+| **Robotics** | ![ROS 2](https://img.shields.io/badge/ROS_2-0B0F2A?style=flat-square&logo=ros&logoColor=22D3EE) |
+| **Development** | ![Linux](https://img.shields.io/badge/Linux-0B0F2A?style=flat-square&logo=linux&logoColor=22D3EE) ![VS Code](https://img.shields.io/badge/VS_Code-0B0F2A?style=flat-square&logoColor=22D3EE) ![Git](https://img.shields.io/badge/Git-0B0F2A?style=flat-square&logo=git&logoColor=22D3EE) ![GitHub](https://img.shields.io/badge/GitHub-0B0F2A?style=flat-square&logo=github&logoColor=22D3EE) |
+| **Domains** | ![Robotics](https://img.shields.io/badge/Robotics-1B1450?style=flat-square) ![Autonomous Systems](https://img.shields.io/badge/Autonomous_Systems-1B1450?style=flat-square) ![Automation](https://img.shields.io/badge/Automation-1B1450?style=flat-square) ![Space Technology](https://img.shields.io/badge/Space_Technology-1B1450?style=flat-square) |
+| **Currently learning** | ![OpenCV](https://img.shields.io/badge/OpenCV-1B1450?style=flat-square&logo=opencv&logoColor=22D3EE) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-1B1450?style=flat-square) |
 
-## 📡 Contact Mission Control
+<br>
 
-<div align="center">
+## Focus Areas
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B0F2A?style=for-the-badge&logo=linkedin&logoColor=A78BFA)](https://www.linkedin.com/in/aadi-verma-8b48b4431/)
-[![Email](https://img.shields.io/badge/Email-0B0F2A?style=for-the-badge&logo=gmail&logoColor=A78BFA)](mailto:vaadi9902@gmail.com)
+| Area | What I work on |
+|:--|:--|
+| **Autonomous robotics** | Software for perception, navigation and coordination of mobile robots |
+| **Automation** | Replacing repetitive workflows with reliable programs |
+| **Space technology** | Software and data pipelines for orbital imaging and ground systems |
+| **Software engineering** | Readable, maintainable, version-controlled code |
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:2A1A6B,100:0B0F2A&height=120&section=footer" alt="footer" />
+<br>
 
-</div>
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B0F2A?style=flat-square&logo=linkedin&logoColor=22D3EE)](https://www.linkedin.com/in/aadi-verma-8b48b4431/)
+[![Email](https://img.shields.io/badge/Email-0B0F2A?style=flat-square&logo=gmail&logoColor=22D3EE)](mailto:vaadi9902@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1B1450,100:070B1F&height=60&section=footer" alt="" width="100%" />
